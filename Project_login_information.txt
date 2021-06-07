@@ -1,0 +1,11 @@
+In case the system run from the Login form, the following credentias should either use.
+
+Default login information for Admin
+
+username = Admin
+Password = admin
+
+Default login information for User
+
+UserName = User
+Password = user
